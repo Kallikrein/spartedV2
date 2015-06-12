@@ -1,0 +1,1 @@
+docker run --rm -t -v $PWD/$2:/src kallikrein/sails sails $1
