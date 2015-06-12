@@ -1,0 +1,7 @@
+auth:
+  image: kallikrein/sails
+  ports:
+    - "80:1337"
+  volumes:
+    - ./$APP:/src
+  command : sails lift
