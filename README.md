@@ -14,4 +14,4 @@ Set ownership of the app folder
 
 App lift :
 
-```docker-compoe up```
+```docker-compose up```
